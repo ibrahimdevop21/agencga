@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and caches
+*.log
+/cache/
+/tmp/
+/build/
+/dist/
+
+# Env files
+.env
+.env.local
+.env.development
+.env.production
